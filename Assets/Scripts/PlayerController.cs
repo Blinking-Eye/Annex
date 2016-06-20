@@ -13,6 +13,7 @@ public class PlayerController : MonoBehaviour
     /* Falling and Jumping */
     private bool _grounded = false; // Are you on the ground?
     [SerializeField] private float Jump = 500.0f;
+    [SerializeField] private float JumpSpeed = 0.0f;
     private bool _canDoubleJump = false;
     [SerializeField] private float DoubleJump = 300.0f;
     [SerializeField] private float FallSpeed = 10.0f;
@@ -38,7 +39,6 @@ public class PlayerController : MonoBehaviour
     // Called each frame
     void Update()
     {
-
         if (CurrentHealth <= 0.0f)
             Destroy(gameObject);
         
@@ -49,13 +49,17 @@ public class PlayerController : MonoBehaviour
             {
                 _anim.SetBool("Ground", false);
                 _rb.velocity = new Vector2(_rb.velocity.x, 0.0f);
-                _rb.AddForce(new Vector2(0, Jump)); // Jump
+                //_rb.AddForce(new Vector2(0, Jump)); // Jump
+                _rb.velocity = new Vector2(_rb.velocity.x+transform.up.x*Jump*Time.deltaTime, _rb.velocity.y + transform.up.y * Jump * Time.deltaTime);
+
                 _canDoubleJump = true;
             }
             else if (_canDoubleJump) // Double jump
             {
+                Debug.Log("Double jumped");
                 _rb.velocity = new Vector2(_rb.velocity.x, 0.0f);
                 _rb.AddForce(new Vector2(0, DoubleJump));
+
                 _canDoubleJump = false;
             }
         }
