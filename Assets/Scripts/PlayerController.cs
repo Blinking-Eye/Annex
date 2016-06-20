@@ -8,14 +8,13 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private LayerMask DefineDamage; // Define what does damage
 
     /* Movement */
-    [SerializeField] float MaxSpeed = 20.0f;
+    [SerializeField] float MaxSpeed = 15.0f;
 
     /* Falling and Jumping */
     private bool _grounded = false; // Are you on the ground?
-    [SerializeField] private float Jump = 500.0f;
-    [SerializeField] private float JumpSpeed = 0.0f;
+    [SerializeField] private float Jump = 800.0f;
     private bool _canDoubleJump = false;
-    [SerializeField] private float DoubleJump = 300.0f;
+    [SerializeField] private float DoubleJump = 600.0f;
     [SerializeField] private float FallSpeed = 10.0f;
     private const float GroundRadius = 0.2f; // How big will the sphere be that we check for ground?
     [SerializeField] private Transform GroundCheck; // Creates another object to say where the ground should be
@@ -43,14 +42,13 @@ public class PlayerController : MonoBehaviour
             Destroy(gameObject);
         
         // Don't do this in the future, do input manager and make jump axis to allow remapping
-        if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow))
+        if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.L))
         {
             if (_grounded)
             {
                 _anim.SetBool("Ground", false);
                 _rb.velocity = new Vector2(_rb.velocity.x, 0.0f);
-                //_rb.AddForce(new Vector2(0, Jump)); // Jump
-                _rb.velocity = new Vector2(_rb.velocity.x+transform.up.x*Jump*Time.deltaTime, _rb.velocity.y + transform.up.y * Jump * Time.deltaTime);
+                _rb.AddForce(new Vector2(0, Jump)); // Jump
 
                 _canDoubleJump = true;
             }

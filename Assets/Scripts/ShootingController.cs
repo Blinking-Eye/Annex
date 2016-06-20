@@ -7,8 +7,10 @@ public class ShootingController : MonoBehaviour
 {
 
     [SerializeField] private GameObject Lemon;
+    [SerializeField] private GameObject ChargedLemon;
     private bool _charging = false;
     private float _chargeTimer = 1.0f;
+    [SerializeField] private float ChargeLimit = 0.0f;
     [SerializeField] private float FireRate = 0.4f;
     private float _fireNext = 0.0f;
     [SerializeField] private float Speed;
@@ -28,14 +30,18 @@ public class ShootingController : MonoBehaviour
     {
         _anim.SetBool("Charging", _charging);
         _anim.SetBool("Shooting", false);
+        _anim.SetBool("Charged", false);
 
         FacingRight = gameObject.GetComponent<PlayerController>().FacingRight;
         if (Time.fixedTime > _fireNext)
         {
-            if (Input.GetKey(KeyCode.Space))
+            if (Input.GetKey(KeyCode.Space) || Input.GetKey(KeyCode.K))
             {
                 _charging = true;
                 _chargeTimer += Time.deltaTime;
+
+                if (_chargeTimer > ChargeLimit)
+                    _anim.SetBool("Charged", true);
             }
             else if (_charging)
             {
@@ -51,8 +57,11 @@ public class ShootingController : MonoBehaviour
                 Vector2 direction = myPos;
                 direction.Normalize(); // Normalize
 
+                // Pick bullet type based on how long one held
+                GameObject bullet = _chargeTimer < ChargeLimit ? Lemon : ChargedLemon;
+
                 // Instantiate projectile and give velocity
-                _projectile = (GameObject) Instantiate(Lemon, myPos, Quaternion.identity);
+                _projectile = (GameObject) Instantiate(bullet, myPos, Quaternion.identity);
                 _rb = _projectile.GetComponent<Rigidbody2D>();
                 _projectile.GetComponent<ProjectileController>().Player = this;
 
