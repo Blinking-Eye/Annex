@@ -1,0 +1,3663 @@
+fileFormatVersion: 2
+guid: 55dcaf6214c80dd49933d0397cc454f6
+timeCreated: 1466526594
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mmx3_zero_0
+    21300002: mmx3_zero_1
+    21300004: mmx3_zero_2
+    21300006: mmx3_zero_3
+    21300008: mmx3_zero_4
+    21300010: mmx3_zero_5
+    21300012: mmx3_zero_6
+    21300014: mmx3_zero_7
+    21300016: mmx3_zero_8
+    21300018: mmx3_zero_9
+    21300020: mmx3_zero_10
+    21300022: mmx3_zero_11
+    21300024: mmx3_zero_12
+    21300026: mmx3_zero_13
+    21300028: mmx3_zero_14
+    21300030: mmx3_zero_15
+    21300032: mmx3_zero_16
+    21300034: mmx3_zero_17
+    21300036: mmx3_zero_18
+    21300038: mmx3_zero_19
+    21300040: mmx3_zero_20
+    21300042: mmx3_zero_21
+    21300044: mmx3_zero_22
+    21300046: mmx3_zero_23
+    21300048: mmx3_zero_24
+    21300050: mmx3_zero_25
+    21300052: mmx3_zero_26
+    21300054: mmx3_zero_27
+    21300056: mmx3_zero_28
+    21300058: mmx3_zero_29
+    21300060: mmx3_zero_30
+    21300062: mmx3_zero_31
+    21300064: mmx3_zero_32
+    21300066: mmx3_zero_33
+    21300068: mmx3_zero_34
+    21300070: mmx3_zero_35
+    21300072: mmx3_zero_36
+    21300074: mmx3_zero_37
+    21300076: mmx3_zero_38
+    21300078: mmx3_zero_39
+    21300080: mmx3_zero_40
+    21300082: mmx3_zero_41
+    21300084: mmx3_zero_42
+    21300086: mmx3_zero_43
+    21300088: mmx3_zero_44
+    21300090: mmx3_zero_45
+    21300092: mmx3_zero_46
+    21300094: mmx3_zero_47
+    21300096: mmx3_zero_48
+    21300098: mmx3_zero_49
+    21300100: mmx3_zero_50
+    21300102: mmx3_zero_51
+    21300104: mmx3_zero_52
+    21300106: mmx3_zero_53
+    21300108: mmx3_zero_54
+    21300110: mmx3_zero_55
+    21300112: mmx3_zero_56
+    21300114: mmx3_zero_57
+    21300116: mmx3_zero_58
+    21300118: mmx3_zero_59
+    21300120: mmx3_zero_60
+    21300122: mmx3_zero_61
+    21300124: mmx3_zero_62
+    21300126: mmx3_zero_63
+    21300128: mmx3_zero_64
+    21300130: mmx3_zero_65
+    21300132: mmx3_zero_66
+    21300134: mmx3_zero_67
+    21300136: mmx3_zero_68
+    21300138: mmx3_zero_69
+    21300140: mmx3_zero_70
+    21300142: mmx3_zero_71
+    21300144: mmx3_zero_72
+    21300146: mmx3_zero_73
+    21300148: mmx3_zero_74
+    21300150: mmx3_zero_75
+    21300152: mmx3_zero_76
+    21300154: mmx3_zero_77
+    21300156: mmx3_zero_78
+    21300158: mmx3_zero_79
+    21300160: mmx3_zero_80
+    21300162: mmx3_zero_81
+    21300164: mmx3_zero_82
+    21300166: mmx3_zero_83
+    21300168: mmx3_zero_84
+    21300170: mmx3_zero_85
+    21300172: mmx3_zero_86
+    21300174: mmx3_zero_87
+    21300176: mmx3_zero_88
+    21300178: mmx3_zero_89
+    21300180: mmx3_zero_90
+    21300182: mmx3_zero_91
+    21300184: mmx3_zero_92
+    21300186: mmx3_zero_93
+    21300188: mmx3_zero_94
+    21300190: mmx3_zero_95
+    21300192: mmx3_zero_96
+    21300194: mmx3_zero_97
+    21300196: mmx3_zero_98
+    21300198: mmx3_zero_99
+    21300200: mmx3_zero_100
+    21300202: mmx3_zero_101
+    21300204: mmx3_zero_102
+    21300206: mmx3_zero_103
+    21300208: mmx3_zero_104
+    21300210: mmx3_zero_105
+    21300212: mmx3_zero_106
+    21300214: mmx3_zero_107
+    21300216: mmx3_zero_108
+    21300218: mmx3_zero_109
+    21300220: mmx3_zero_110
+    21300222: mmx3_zero_111
+    21300224: mmx3_zero_112
+    21300226: mmx3_zero_113
+    21300228: mmx3_zero_114
+    21300230: mmx3_zero_115
+    21300232: mmx3_zero_116
+    21300234: mmx3_zero_117
+    21300236: mmx3_zero_118
+    21300238: mmx3_zero_119
+    21300240: mmx3_zero_120
+    21300242: mmx3_zero_121
+    21300244: mmx3_zero_122
+    21300246: mmx3_zero_123
+    21300248: mmx3_zero_124
+    21300250: mmx3_zero_125
+    21300252: mmx3_zero_126
+    21300254: mmx3_zero_127
+    21300256: mmx3_zero_128
+    21300258: mmx3_zero_129
+    21300260: mmx3_zero_130
+    21300262: mmx3_zero_131
+    21300264: mmx3_zero_132
+    21300266: mmx3_zero_133
+    21300268: mmx3_zero_134
+    21300270: mmx3_zero_135
+    21300272: mmx3_zero_136
+    21300274: mmx3_zero_137
+    21300276: mmx3_zero_138
+    21300278: mmx3_zero_139
+    21300280: mmx3_zero_140
+    21300282: mmx3_zero_141
+    21300284: mmx3_zero_142
+    21300286: mmx3_zero_143
+    21300288: mmx3_zero_144
+    21300290: mmx3_zero_145
+    21300292: mmx3_zero_146
+    21300294: mmx3_zero_147
+    21300296: mmx3_zero_148
+    21300298: mmx3_zero_149
+    21300300: mmx3_zero_150
+    21300302: mmx3_zero_151
+    21300304: mmx3_zero_152
+    21300306: mmx3_zero_153
+    21300308: mmx3_zero_154
+    21300310: mmx3_zero_155
+    21300312: mmx3_zero_156
+    21300314: mmx3_zero_157
+    21300316: mmx3_zero_158
+    21300318: mmx3_zero_159
+    21300320: mmx3_zero_160
+    21300322: mmx3_zero_161
+    21300324: mmx3_zero_162
+    21300326: mmx3_zero_163
+    21300328: mmx3_zero_164
+    21300330: mmx3_zero_165
+    21300332: mmx3_zero_166
+    21300334: mmx3_zero_167
+    21300336: mmx3_zero_168
+    21300338: mmx3_zero_169
+    21300340: mmx3_zero_170
+    21300342: mmx3_zero_171
+    21300344: mmx3_zero_172
+    21300346: mmx3_zero_173
+    21300348: mmx3_zero_174
+    21300350: mmx3_zero_175
+    21300352: mmx3_zero_176
+    21300354: mmx3_zero_177
+    21300356: mmx3_zero_178
+    21300358: mmx3_zero_179
+    21300360: mmx3_zero_180
+    21300362: mmx3_zero_181
+    21300364: mmx3_zero_182
+    21300366: mmx3_zero_183
+    21300368: mmx3_zero_184
+    21300370: mmx3_zero_185
+    21300372: mmx3_zero_186
+    21300374: mmx3_zero_187
+    21300376: mmx3_zero_188
+    21300378: mmx3_zero_189
+    21300380: mmx3_zero_190
+    21300382: mmx3_zero_191
+    21300384: mmx3_zero_192
+    21300386: mmx3_zero_193
+    21300388: mmx3_zero_194
+    21300390: mmx3_zero_195
+    21300392: mmx3_zero_196
+    21300394: mmx3_zero_197
+    21300396: mmx3_zero_198
+    21300398: mmx3_zero_199
+    21300400: mmx3_zero_200
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mmx3_zero_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1473
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1473
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1473
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 24}
+        - {x: -18.5, y: 4}
+        - {x: -18.5, y: -24}
+        - {x: 18.5, y: -24}
+        - {x: 18.5, y: 20}
+        - {x: 16.5, y: 24}
+    - name: mmx3_zero_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1473
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 23.5}
+        - {x: -18.5, y: 1.5}
+        - {x: -18.5, y: -23.5}
+        - {x: 18.5, y: -23.5}
+        - {x: 18.5, y: 17.5}
+        - {x: 15.5, y: 23.5}
+    - name: mmx3_zero_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1473
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 22.5}
+        - {x: -18.5, y: -1.5}
+        - {x: -18.5, y: -22.5}
+        - {x: 18.5, y: -22.5}
+        - {x: 18.5, y: 13.5}
+        - {x: 14.5, y: 22.5}
+    - name: mmx3_zero_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1473
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 21.5}
+        - {x: -18.5, y: 1.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 18.5, y: -21.5}
+        - {x: 18.5, y: 12.5}
+        - {x: 14.5, y: 21.5}
+    - name: mmx3_zero_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1473
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 20.5}
+        - {x: -18.5, y: 5.5}
+        - {x: -18.5, y: -20.5}
+        - {x: 18.5, y: -20.5}
+        - {x: 18.5, y: 14.5}
+        - {x: 13.5, y: 20.5}
+    - name: mmx3_zero_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1473
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 22}
+        - {x: -14, y: 22}
+        - {x: -19, y: 8}
+        - {x: -19, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: -5}
+    - name: mmx3_zero_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1473
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 22}
+        - {x: -14, y: 22}
+        - {x: -19, y: 8}
+        - {x: -19, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: -5}
+    - name: mmx3_zero_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1473
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 22}
+        - {x: -14, y: 22}
+        - {x: -19, y: 8}
+        - {x: -19, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: -5}
+    - name: mmx3_zero_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1473
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 22}
+        - {x: -14, y: 22}
+        - {x: -19, y: 8}
+        - {x: -19, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: -5}
+    - name: mmx3_zero_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1473
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 22}
+        - {x: -23, y: 8}
+        - {x: -23, y: -22}
+        - {x: 23, y: -22}
+        - {x: 23, y: 11}
+        - {x: 8, y: 22}
+    - name: mmx3_zero_12
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1473
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22}
+        - {x: -20, y: 15}
+        - {x: -22, y: 5}
+        - {x: -22, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: 14}
+        - {x: 7, y: 22}
+    - name: mmx3_zero_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1417
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 22}
+        - {x: -20, y: 7}
+        - {x: -23, y: 2}
+        - {x: -23, y: -21}
+        - {x: -19, y: -22}
+        - {x: 23, y: -22}
+        - {x: 23, y: 5}
+        - {x: 18, y: 22}
+    - name: mmx3_zero_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1417
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 22}
+        - {x: -15, y: 19}
+        - {x: -21, y: 13}
+        - {x: -21, y: -3}
+        - {x: -8, y: -22}
+        - {x: 17, y: -22}
+        - {x: 21, y: -6}
+        - {x: 21, y: 18}
+        - {x: 19, y: 22}
+    - name: mmx3_zero_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1417
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 22.5}
+        - {x: -19, y: 18.5}
+        - {x: -20, y: 13.5}
+        - {x: -20, y: 4.5}
+        - {x: -14, y: -2.5}
+        - {x: -11, y: -5.5}
+        - {x: -6, y: -5.5}
+        - {x: -7, y: -15.5}
+        - {x: -7, y: -19.5}
+        - {x: -4, y: -22.5}
+        - {x: 16, y: -22.5}
+        - {x: 20, y: -9.5}
+        - {x: 20, y: 22.5}
+    - name: mmx3_zero_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1417
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 22}
+        - {x: -21, y: 14}
+        - {x: -21, y: -22}
+        - {x: 17, y: -22}
+        - {x: 21, y: -19}
+        - {x: 21, y: 10}
+        - {x: 16, y: 22}
+    - name: mmx3_zero_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1417
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: -21.5}
+        - {x: 20.5, y: 18.5}
+        - {x: 19.5, y: 21.5}
+        - {x: -1.5, y: 21.5}
+        - {x: -20.5, y: 5.5}
+        - {x: -20.5, y: -21.5}
+    - name: mmx3_zero_18
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1417
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 21.5}
+        - {x: -21, y: 3.5}
+        - {x: -21, y: -15.5}
+        - {x: -12, y: -21.5}
+        - {x: 20, y: -21.5}
+        - {x: 21, y: -20.5}
+        - {x: 21, y: 18.5}
+        - {x: 17, y: 21.5}
+    - name: mmx3_zero_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1417
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 22}
+        - {x: -20.5, y: 13}
+        - {x: -20.5, y: -7}
+        - {x: -8.5, y: -22}
+        - {x: 19.5, y: -22}
+        - {x: 20.5, y: -19}
+        - {x: 20.5, y: 22}
+    - name: mmx3_zero_20
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1417
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 22.5}
+        - {x: -18.5, y: 19.5}
+        - {x: -20.5, y: 17.5}
+        - {x: -20.5, y: -15.5}
+        - {x: -18.5, y: -18.5}
+        - {x: -16.5, y: -22.5}
+        - {x: 9.5, y: -22.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 20.5, y: 18.5}
+        - {x: 17.5, y: 22.5}
+    - name: mmx3_zero_21
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1417
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 22}
+        - {x: -23.5, y: 20}
+        - {x: -23.5, y: 1}
+        - {x: -20.5, y: -2}
+        - {x: -18.5, y: -2}
+        - {x: -14.5, y: 1}
+        - {x: -13.5, y: 4}
+        - {x: -13.5, y: 0}
+        - {x: -8.5, y: -5}
+        - {x: -5.5, y: -5}
+        - {x: -13.5, y: -5}
+        - {x: -17.5, y: -18}
+        - {x: -12.5, y: -22}
+        - {x: 15.5, y: -22}
+        - {x: 23.5, y: -19}
+        - {x: 23.5, y: 17}
+        - {x: 22.5, y: 22}
+    - name: mmx3_zero_22
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1417
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 23}
+        - {x: -17.5, y: 23}
+        - {x: -17.5, y: 18}
+        - {x: -17.5, y: 23}
+        - {x: -23.5, y: 23}
+        - {x: -23.5, y: -9}
+        - {x: -2.5, y: -23}
+        - {x: 14.5, y: -23}
+        - {x: 21.5, y: -18}
+        - {x: 23.5, y: -9}
+        - {x: 23.5, y: 16}
+    - name: mmx3_zero_23
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1417
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 21.5}
+        - {x: -23, y: 17.5}
+        - {x: -23, y: -3.5}
+        - {x: -19, y: -15.5}
+        - {x: -7, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 8.5}
+        - {x: 18, y: 21.5}
+    - name: mmx3_zero_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1361
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 22}
+        - {x: -26, y: 17}
+        - {x: -26, y: -3}
+        - {x: -13, y: -22}
+        - {x: 16, y: -22}
+        - {x: 26, y: -7}
+        - {x: 26, y: 18}
+        - {x: 17, y: 22}
+    - name: mmx3_zero_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1361
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 22.5}
+        - {x: -25, y: 19.5}
+        - {x: -25, y: 4.5}
+        - {x: -19, y: -2.5}
+        - {x: -16, y: -5.5}
+        - {x: -11, y: -5.5}
+        - {x: -12, y: -15.5}
+        - {x: -12, y: -19.5}
+        - {x: -9, y: -22.5}
+        - {x: 15, y: -22.5}
+        - {x: 25, y: -7.5}
+        - {x: 25, y: 19.5}
+        - {x: 22, y: 22.5}
+    - name: mmx3_zero_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1361
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 22}
+        - {x: -5, y: 21}
+        - {x: -9, y: 15}
+        - {x: -8, y: 12}
+        - {x: -23, y: 10}
+        - {x: -23, y: -22}
+        - {x: 12, y: -22}
+        - {x: 23, y: -12}
+        - {x: 23, y: 12}
+        - {x: 16, y: 22}
+    - name: mmx3_zero_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1361
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 21.5}
+        - {x: -21.5, y: 11.5}
+        - {x: -22.5, y: 10.5}
+        - {x: -22.5, y: -15.5}
+        - {x: -14.5, y: -21.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 22.5, y: 17.5}
+        - {x: 17.5, y: 21.5}
+    - name: mmx3_zero_28
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1361
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 21.5}
+        - {x: -19.5, y: 5.5}
+        - {x: -19.5, y: 3.5}
+        - {x: -22.5, y: 3.5}
+        - {x: -24.5, y: 2.5}
+        - {x: -24.5, y: -13.5}
+        - {x: -13.5, y: -21.5}
+        - {x: 18.5, y: -21.5}
+        - {x: 21.5, y: -19.5}
+        - {x: 24.5, y: -7.5}
+        - {x: 24.5, y: 9.5}
+        - {x: 12.5, y: 21.5}
+    - name: mmx3_zero_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1361
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 22}
+        - {x: -19.5, y: 19}
+        - {x: -25.5, y: 14}
+        - {x: -25.5, y: -8}
+        - {x: -18.5, y: -22}
+        - {x: 18.5, y: -22}
+        - {x: 25.5, y: -6}
+        - {x: 25.5, y: 13}
+        - {x: 16.5, y: 22}
+    - name: mmx3_zero_30
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1361
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 22.5}
+        - {x: -25, y: 17.5}
+        - {x: -25, y: -6.5}
+        - {x: -21, y: -22.5}
+        - {x: 10, y: -22.5}
+        - {x: 25, y: -15.5}
+        - {x: 25, y: 11.5}
+        - {x: 17, y: 22.5}
+    - name: mmx3_zero_31
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1361
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 22}
+        - {x: -25.5, y: 20}
+        - {x: -25.5, y: 1}
+        - {x: -22.5, y: -2}
+        - {x: -20.5, y: -2}
+        - {x: -16.5, y: 1}
+        - {x: -15.5, y: 4}
+        - {x: -15.5, y: 0}
+        - {x: -10.5, y: -5}
+        - {x: -7.5, y: -5}
+        - {x: -15.5, y: -5}
+        - {x: -19.5, y: -18}
+        - {x: -14.5, y: -22}
+        - {x: 20.5, y: -22}
+        - {x: 25.5, y: -17}
+        - {x: 25.5, y: 12}
+        - {x: 18.5, y: 22}
+    - name: mmx3_zero_32
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1361
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 8}
+        - {x: 13, y: 23}
+        - {x: -18, y: 23}
+        - {x: -18, y: 18}
+        - {x: -18, y: 23}
+        - {x: -24, y: 23}
+        - {x: -24, y: -9}
+        - {x: -3, y: -23}
+        - {x: 14, y: -23}
+        - {x: 21, y: -18}
+        - {x: 20, y: -16}
+        - {x: 24, y: -12}
+    - name: mmx3_zero_33
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1361
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -4.5}
+        - {x: 25, y: 9.5}
+        - {x: 13, y: 21.5}
+        - {x: -21, y: 21.5}
+        - {x: -25, y: 15.5}
+        - {x: -25, y: -20.5}
+        - {x: -18, y: -21.5}
+        - {x: 19, y: -21.5}
+        - {x: 19, y: -17.5}
+        - {x: 11, y: -9.5}
+        - {x: 24, y: -6.5}
+    - name: mmx3_zero_34
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1284
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 26}
+        - {x: -20, y: 18}
+        - {x: -20, y: -2}
+        - {x: -17, y: -1}
+        - {x: -14, y: -3}
+        - {x: -6, y: -21}
+        - {x: -1, y: -26}
+        - {x: 14, y: -26}
+        - {x: 20, y: -20}
+        - {x: 20, y: 24}
+        - {x: 18, y: 26}
+    - name: mmx3_zero_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1284
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 26}
+        - {x: -19, y: 19}
+        - {x: -19, y: -9}
+        - {x: -12, y: -26}
+        - {x: 4, y: -26}
+        - {x: 19, y: -16}
+        - {x: 19, y: 19}
+        - {x: 16, y: 26}
+    - name: mmx3_zero_36
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1284
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 25.5}
+        - {x: -15.5, y: 23.5}
+        - {x: -18.5, y: 16.5}
+        - {x: -18.5, y: -17.5}
+        - {x: -15.5, y: -17.5}
+        - {x: -12.5, y: -16.5}
+        - {x: -12.5, y: -13.5}
+        - {x: -12.5, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 18.5, y: 13.5}
+        - {x: 10.5, y: 25.5}
+    - name: mmx3_zero_37
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1284
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 25.5}
+        - {x: -13, y: 25.5}
+        - {x: -17, y: 19.5}
+        - {x: -17, y: -18.5}
+        - {x: -11, y: -25.5}
+        - {x: 0, y: -25.5}
+        - {x: 14, y: -20.5}
+        - {x: 17, y: -9.5}
+        - {x: 17, y: 15.5}
+    - name: mmx3_zero_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1284
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 26}
+        - {x: -3.5, y: 26}
+        - {x: -16.5, y: 21}
+        - {x: -19.5, y: 16}
+        - {x: -19.5, y: 1}
+        - {x: -14.5, y: -8}
+        - {x: -11.5, y: -9}
+        - {x: -12.5, y: -14}
+        - {x: -11.5, y: -18}
+        - {x: -9.5, y: -23}
+        - {x: -6.5, y: -26}
+        - {x: 6.5, y: -26}
+        - {x: 13.5, y: -22}
+        - {x: 19.5, y: -2}
+        - {x: 19.5, y: 14}
+    - name: mmx3_zero_39
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1284
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 19}
+        - {x: -1, y: 33}
+        - {x: -14, y: 33}
+        - {x: -18, y: 30}
+        - {x: -18, y: 10}
+        - {x: -12, y: 2}
+        - {x: -8, y: -26}
+        - {x: -1, y: -33}
+        - {x: 10, y: -33}
+        - {x: 17, y: -28}
+        - {x: 18, y: -22}
+        - {x: 18, y: 18}
+    - name: mmx3_zero_40
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1284
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 33.5}
+        - {x: -17, y: 28.5}
+        - {x: -17, y: -13.5}
+        - {x: -10, y: -33.5}
+        - {x: 8, y: -33.5}
+        - {x: 15, y: -28.5}
+        - {x: 17, y: -18.5}
+        - {x: 17, y: 21.5}
+        - {x: 2, y: 33.5}
+    - name: mmx3_zero_41
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1284
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25.5}
+        - {x: -17, y: -25.5}
+        - {x: 4, y: -25.5}
+        - {x: 17, y: -12.5}
+        - {x: 17, y: 25.5}
+    - name: mmx3_zero_42
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1284
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21}
+        - {x: -19, y: 20}
+        - {x: -19, y: -21}
+        - {x: 19, y: -21}
+        - {x: 19, y: 12}
+        - {x: 13, y: 21}
+    - name: mmx3_zero_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1207
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 26}
+        - {x: -24.5, y: 14}
+        - {x: -24.5, y: -3}
+        - {x: -9.5, y: -26}
+        - {x: 10.5, y: -26}
+        - {x: 18.5, y: -24}
+        - {x: 24.5, y: -12}
+        - {x: 24.5, y: 14}
+        - {x: 9.5, y: 26}
+    - name: mmx3_zero_44
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1207
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 14}
+        - {x: 11, y: 26}
+        - {x: -15, y: 26}
+        - {x: -22, y: 13}
+        - {x: -22, y: -13}
+        - {x: -11, y: -26}
+        - {x: -1, y: -26}
+        - {x: 14, y: -7}
+        - {x: 14, y: -4}
+        - {x: 22, y: -1}
+    - name: mmx3_zero_45
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1207
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 25.5}
+        - {x: -18.5, y: 23.5}
+        - {x: -21.5, y: 16.5}
+        - {x: -21.5, y: -17.5}
+        - {x: -18.5, y: -17.5}
+        - {x: -15.5, y: -16.5}
+        - {x: -15.5, y: -13.5}
+        - {x: -15.5, y: -18.5}
+        - {x: -13.5, y: -23.5}
+        - {x: -12.5, y: -25.5}
+        - {x: 10.5, y: -25.5}
+        - {x: 21.5, y: -14.5}
+        - {x: 21.5, y: 19.5}
+        - {x: 8.5, y: 25.5}
+    - name: mmx3_zero_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1207
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 25.5}
+        - {x: -18, y: 25.5}
+        - {x: -20, y: 24.5}
+        - {x: -20, y: -21.5}
+        - {x: -15, y: -25.5}
+        - {x: 7, y: -25.5}
+        - {x: 12, y: -22.5}
+        - {x: 20, y: -10.5}
+        - {x: 20, y: 14.5}
+    - name: mmx3_zero_47
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1207
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 26}
+        - {x: -19, y: 21}
+        - {x: -22, y: 16}
+        - {x: -22, y: 1}
+        - {x: -17, y: -8}
+        - {x: -14, y: -9}
+        - {x: -15, y: -14}
+        - {x: -14, y: -25}
+        - {x: -13, y: -26}
+        - {x: 13, y: -26}
+        - {x: 22, y: -17}
+        - {x: 22, y: 18}
+        - {x: 11, y: 26}
+    - name: mmx3_zero_48
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1207
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 33}
+        - {x: -22.5, y: 30}
+        - {x: -22.5, y: 10}
+        - {x: -16.5, y: 2}
+        - {x: -16.5, y: -28}
+        - {x: -9.5, y: -33}
+        - {x: 12.5, y: -33}
+        - {x: 22.5, y: -18}
+        - {x: 22.5, y: 11}
+        - {x: -2.5, y: 33}
+    - name: mmx3_zero_49
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1207
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 33.5}
+        - {x: -21.5, y: 27.5}
+        - {x: -21.5, y: -11.5}
+        - {x: -13.5, y: -33.5}
+        - {x: 10.5, y: -33.5}
+        - {x: 14.5, y: -31.5}
+        - {x: 21.5, y: -16.5}
+        - {x: 21.5, y: 14.5}
+        - {x: -3.5, y: 33.5}
+    - name: mmx3_zero_50
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1207
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 25.5}
+        - {x: -22.5, y: -25.5}
+        - {x: 1.5, y: -25.5}
+        - {x: 22.5, y: -7.5}
+        - {x: 22.5, y: 17.5}
+        - {x: 3.5, y: 25.5}
+    - name: mmx3_zero_51
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1207
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21}
+        - {x: -23, y: 12}
+        - {x: -23, y: -21}
+        - {x: 23, y: -21}
+        - {x: 23, y: 16}
+        - {x: 12, y: 21}
+    - name: mmx3_zero_52
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1155
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 21}
+        - {x: -21, y: 16}
+        - {x: -21, y: -21}
+        - {x: 15, y: -21}
+        - {x: 21, y: -10}
+        - {x: 21, y: 15}
+        - {x: 17, y: 21}
+    - name: mmx3_zero_53
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1155
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 21}
+        - {x: -19, y: 15}
+        - {x: -21, y: 10}
+        - {x: -21, y: -18}
+        - {x: -20, y: -21}
+        - {x: 15, y: -21}
+        - {x: 21, y: -10}
+        - {x: 21, y: 15}
+        - {x: 17, y: 21}
+    - name: mmx3_zero_54
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1155
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 9.5}
+        - {x: 23, y: 13.5}
+        - {x: 20, y: 15.5}
+        - {x: 4, y: 17.5}
+        - {x: -19, y: 17.5}
+        - {x: -20, y: 16.5}
+        - {x: -23, y: 10.5}
+        - {x: -25, y: 1.5}
+        - {x: -22, y: 0.5}
+        - {x: -19, y: 1.5}
+        - {x: -16, y: 1.5}
+        - {x: -25, y: -9.5}
+        - {x: -25, y: -17.5}
+        - {x: 25, y: -17.5}
+    - name: mmx3_zero_55
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1155
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 16}
+        - {x: -25, y: -16}
+        - {x: 25, y: -16}
+        - {x: 25, y: 16}
+    - name: mmx3_zero_56
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1103
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 21}
+        - {x: -25, y: 15}
+        - {x: -25, y: -21}
+        - {x: 12, y: -21}
+        - {x: 25, y: -11}
+        - {x: 25, y: 9}
+        - {x: 15, y: 21}
+    - name: mmx3_zero_57
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1103
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 21}
+        - {x: -25, y: 13}
+        - {x: -25, y: -21}
+        - {x: 12, y: -21}
+        - {x: 25, y: -11}
+        - {x: 25, y: 9}
+        - {x: 15, y: 21}
+    - name: mmx3_zero_58
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1103
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 17.5}
+        - {x: -25, y: 17.5}
+        - {x: -29, y: 10.5}
+        - {x: -30, y: 1.5}
+        - {x: -27, y: 0.5}
+        - {x: -24, y: 1.5}
+        - {x: -21, y: 1.5}
+        - {x: -30, y: -9.5}
+        - {x: -30, y: -17.5}
+        - {x: 18, y: -17.5}
+        - {x: 30, y: -12.5}
+        - {x: 30, y: 1.5}
+        - {x: 16, y: 16.5}
+    - name: mmx3_zero_59
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1103
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 16}
+        - {x: -30, y: -16}
+        - {x: 13, y: -16}
+        - {x: 30, y: -11}
+        - {x: 30, y: 4}
+        - {x: 22, y: 16}
+    - name: mmx3_zero_60
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1064
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_61
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1073
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_62
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1069
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_63
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1072
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_64
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1007
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 7}
+        - {x: -18.5, y: -22}
+        - {x: 18.5, y: -22}
+        - {x: 18.5, y: -7}
+        - {x: 11.5, y: 22}
+        - {x: -9.5, y: 22}
+    - name: mmx3_zero_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1007
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 22}
+        - {x: -16.5, y: 18}
+        - {x: -18.5, y: -6}
+        - {x: -18.5, y: -22}
+        - {x: 18.5, y: -22}
+        - {x: 18.5, y: 17}
+        - {x: 9.5, y: 22}
+    - name: mmx3_zero_66
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1007
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 21}
+        - {x: -21.5, y: 13}
+        - {x: -21.5, y: 8}
+        - {x: -10.5, y: 2}
+        - {x: -5.5, y: 2}
+        - {x: -15.5, y: 2}
+        - {x: -20.5, y: -2}
+        - {x: -20.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 14}
+        - {x: 18.5, y: 21}
+    - name: mmx3_zero_67
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1007
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -20}
+        - {x: 22, y: -20}
+        - {x: 24, y: -16}
+        - {x: 24, y: 20}
+        - {x: -22, y: 20}
+        - {x: -24, y: 13}
+        - {x: -24, y: -1}
+        - {x: -23, y: -2}
+        - {x: -17, y: -2}
+        - {x: -24, y: -13}
+        - {x: -24, y: -20}
+        - {x: -9, y: -20}
+        - {x: -6, y: -17}
+        - {x: -4, y: -12}
+        - {x: -3, y: -19}
+    - name: mmx3_zero_68
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1007
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -5}
+        - {x: 21, y: 13}
+        - {x: 13, y: 21}
+        - {x: -2, y: 21}
+        - {x: -4, y: 20}
+        - {x: -21, y: -15}
+        - {x: -21, y: -21}
+        - {x: 18, y: -21}
+    - name: mmx3_zero_69
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1007
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -0.5}
+        - {x: 13.5, y: -0.5}
+        - {x: 19.5, y: 6.5}
+        - {x: 19.5, y: 16.5}
+        - {x: 12.5, y: 22.5}
+        - {x: -3.5, y: 22.5}
+        - {x: -19.5, y: 11.5}
+        - {x: -19.5, y: -21.5}
+        - {x: -18.5, y: -22.5}
+        - {x: 18.5, y: -22.5}
+        - {x: 19.5, y: -21.5}
+        - {x: 19.5, y: -4.5}
+        - {x: 15.5, y: -0.5}
+    - name: mmx3_zero_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1007
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 22.5}
+        - {x: -11, y: 22.5}
+        - {x: -22, y: 20.5}
+        - {x: -24, y: 16.5}
+        - {x: -24, y: -7.5}
+        - {x: -23, y: -8.5}
+        - {x: -20, y: -7.5}
+        - {x: -16, y: -10.5}
+        - {x: -23, y: -19.5}
+        - {x: -23, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 24, y: -14.5}
+        - {x: 24, y: 17.5}
+    - name: mmx3_zero_71
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1007
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 5.5}
+        - {x: 10.5, y: 17.5}
+        - {x: -3.5, y: 22.5}
+        - {x: -6.5, y: 23.5}
+        - {x: -18.5, y: 23.5}
+        - {x: -21.5, y: 20.5}
+        - {x: -25.5, y: 7.5}
+        - {x: -26.5, y: -6.5}
+        - {x: -26.5, y: -23.5}
+        - {x: 12.5, y: -23.5}
+        - {x: 12.5, y: -21.5}
+        - {x: 26.5, y: -10.5}
+    - name: mmx3_zero_72
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1007
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 19}
+        - {x: -12.5, y: 19}
+        - {x: -26.5, y: -4}
+        - {x: -26.5, y: -19}
+        - {x: 14.5, y: -19}
+        - {x: 19.5, y: -15}
+        - {x: 26.5, y: -6}
+        - {x: 26.5, y: 15}
+    - name: mmx3_zero_73
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 938
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 25.5}
+        - {x: -23.5, y: 22.5}
+        - {x: -23.5, y: -6.5}
+        - {x: -6.5, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 23.5, y: -9.5}
+        - {x: 23.5, y: 25.5}
+    - name: mmx3_zero_74
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 938
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_75
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 938
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 25}
+        - {x: -20, y: -6}
+        - {x: -12, y: -25}
+        - {x: 7, y: -25}
+        - {x: 20, y: -13}
+        - {x: 20, y: 24}
+        - {x: 19, y: 25}
+    - name: mmx3_zero_76
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 938
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 26.5}
+        - {x: -20.5, y: 23.5}
+        - {x: -24.5, y: 18.5}
+        - {x: -24.5, y: 6.5}
+        - {x: -21.5, y: 7.5}
+        - {x: -20.5, y: 10.5}
+        - {x: -21.5, y: 6.5}
+        - {x: -19.5, y: 4.5}
+        - {x: -16.5, y: 5.5}
+        - {x: -20.5, y: -14.5}
+        - {x: -17.5, y: -26.5}
+        - {x: -7.5, y: -26.5}
+        - {x: 5.5, y: -22.5}
+        - {x: 24.5, y: -8.5}
+        - {x: 24.5, y: 12.5}
+        - {x: 16.5, y: 26.5}
+    - name: mmx3_zero_77
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 938
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 17.5}
+        - {x: 12.5, y: 13.5}
+        - {x: 12.5, y: 11.5}
+        - {x: 13.5, y: 17.5}
+        - {x: 11.5, y: 24.5}
+        - {x: -9.5, y: 24.5}
+        - {x: -21.5, y: 18.5}
+        - {x: -21.5, y: -15.5}
+        - {x: -11.5, y: -24.5}
+        - {x: 7.5, y: -24.5}
+        - {x: 20.5, y: -10.5}
+        - {x: 21.5, y: -8.5}
+        - {x: 21.5, y: 17.5}
+    - name: mmx3_zero_78
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 938
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 25}
+        - {x: -17, y: 20}
+        - {x: -17, y: -7}
+        - {x: -9, y: -25}
+        - {x: 6, y: -25}
+        - {x: 17, y: -18}
+        - {x: 17, y: 22}
+        - {x: 15, y: 25}
+    - name: mmx3_zero_79
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 938
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 29}
+        - {x: -22.5, y: 29}
+        - {x: -22.5, y: -19}
+        - {x: -17.5, y: -29}
+        - {x: 12.5, y: -29}
+        - {x: 13.5, y: -28}
+        - {x: 22.5, y: 0}
+        - {x: 22.5, y: 19}
+    - name: mmx3_zero_80
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 938
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 29.5}
+        - {x: -27, y: 26.5}
+        - {x: -27, y: -13.5}
+        - {x: -25, y: -29.5}
+        - {x: -6, y: -29.5}
+        - {x: 12, y: -20.5}
+        - {x: 27, y: -7.5}
+        - {x: 27, y: 14.5}
+        - {x: 6, y: 29.5}
+    - name: mmx3_zero_81
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 860
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 22}
+        - {x: -19.5, y: 11}
+        - {x: -19.5, y: -22}
+        - {x: 19.5, y: -22}
+        - {x: 19.5, y: -16}
+        - {x: 8.5, y: 22}
+    - name: mmx3_zero_82
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 860
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 21.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 18.5, y: -21.5}
+        - {x: 18.5, y: -2.5}
+        - {x: 10.5, y: 21.5}
+    - name: mmx3_zero_83
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 860
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 21.5}
+        - {x: -20.5, y: 5.5}
+        - {x: -20.5, y: -21.5}
+        - {x: 20.5, y: -21.5}
+        - {x: 20.5, y: -10.5}
+        - {x: 10.5, y: 21.5}
+    - name: mmx3_zero_84
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 860
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 21.5}
+        - {x: -26, y: -2.5}
+        - {x: -21, y: -18.5}
+        - {x: -14, y: -21.5}
+        - {x: 26, y: -21.5}
+        - {x: 26, y: 16.5}
+        - {x: 17, y: 21.5}
+    - name: mmx3_zero_85
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 860
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 22}
+        - {x: -24.5, y: 6}
+        - {x: -24.5, y: -9}
+        - {x: -14.5, y: -22}
+        - {x: 24.5, y: -22}
+        - {x: 24.5, y: 15}
+        - {x: 16.5, y: 22}
+    - name: mmx3_zero_86
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 860
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 34}
+        - {x: -31, y: 34}
+        - {x: -31, y: -15}
+        - {x: -28, y: -20}
+        - {x: -20, y: -20}
+        - {x: -22, y: -20}
+        - {x: -31, y: -30}
+        - {x: -31, y: -34}
+        - {x: 10, y: -34}
+        - {x: 31, y: -1}
+        - {x: 31, y: 18}
+        - {x: 25, y: 30}
+    - name: mmx3_zero_87
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 860
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 26}
+        - {x: -40, y: 12}
+        - {x: -40, y: -26}
+        - {x: 40, y: -26}
+        - {x: 40, y: 18}
+        - {x: 21, y: 26}
+    - name: mmx3_zero_88
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 807
+        width: 80
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -21}
+        - {x: 40, y: -21}
+        - {x: 40, y: 3}
+        - {x: 29, y: 21}
+        - {x: -34, y: 21}
+        - {x: -38, y: 20}
+        - {x: -40, y: 4}
+    - name: mmx3_zero_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 807
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -17.5}
+        - {x: 40, y: -17.5}
+        - {x: 40, y: 2.5}
+        - {x: 28, y: 17.5}
+        - {x: -24, y: 17.5}
+        - {x: -30, y: 11.5}
+        - {x: -40, y: -10.5}
+    - name: mmx3_zero_90
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 807
+        width: 76
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17.5}
+        - {x: -31, y: 13.5}
+        - {x: -38, y: -9.5}
+        - {x: -38, y: -17.5}
+        - {x: 29, y: -17.5}
+        - {x: 38, y: -15.5}
+        - {x: 38, y: 1.5}
+        - {x: 13, y: 17.5}
+    - name: mmx3_zero_91
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 807
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: -5.5}
+        - {x: 19.5, y: 3.5}
+        - {x: 14.5, y: 17.5}
+        - {x: -2.5, y: 17.5}
+        - {x: -19.5, y: 11.5}
+        - {x: -29.5, y: -10.5}
+        - {x: -29.5, y: -17.5}
+        - {x: 20.5, y: -17.5}
+        - {x: 29.5, y: -11.5}
+        - {x: 29.5, y: -5.5}
+        - {x: 25.5, y: -4.5}
+    - name: mmx3_zero_92
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 807
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 17.5}
+        - {x: -9, y: 12.5}
+        - {x: -19, y: -14.5}
+        - {x: -19, y: -17.5}
+        - {x: 28, y: -17.5}
+        - {x: 28, y: 15.5}
+        - {x: 27, y: 17.5}
+      - - {x: -25, y: -8.5}
+        - {x: -25, y: -5.5}
+        - {x: -28, y: -4.5}
+        - {x: -28, y: -9.5}
+      - - {x: -23, y: -8.5}
+        - {x: -20, y: -7.5}
+        - {x: -20, y: -4.5}
+        - {x: -23, y: -3.5}
+        - {x: -25, y: -5.5}
+    - name: mmx3_zero_93
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 807
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 21.5}
+        - {x: -22.5, y: -21.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 22.5, y: 21.5}
+    - name: mmx3_zero_94
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 753
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 22}
+        - {x: -19.5, y: 11}
+        - {x: -19.5, y: -22}
+        - {x: 19.5, y: -22}
+        - {x: 19.5, y: -16}
+        - {x: 8.5, y: 22}
+    - name: mmx3_zero_95
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 753
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 21.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 18.5, y: -21.5}
+        - {x: 18.5, y: -2.5}
+        - {x: 10.5, y: 21.5}
+    - name: mmx3_zero_96
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 753
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 21.5}
+        - {x: -20.5, y: 5.5}
+        - {x: -20.5, y: -21.5}
+        - {x: 20.5, y: -21.5}
+        - {x: 20.5, y: -10.5}
+        - {x: 10.5, y: 21.5}
+    - name: mmx3_zero_97
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 753
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 22}
+        - {x: -18.5, y: 4}
+        - {x: -18.5, y: -22}
+        - {x: 18.5, y: -22}
+        - {x: 18.5, y: -6}
+        - {x: 9.5, y: 22}
+    - name: mmx3_zero_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 753
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 21.5}
+        - {x: -22.5, y: -21.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 22.5, y: 21.5}
+    - name: mmx3_zero_99
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 753
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 21}
+        - {x: -18.5, y: 17}
+        - {x: -22.5, y: -10}
+        - {x: -22.5, y: -21}
+        - {x: 22.5, y: -21}
+        - {x: 22.5, y: 14}
+        - {x: 11.5, y: 21}
+    - name: mmx3_zero_100
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 753
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 17.5}
+        - {x: -0.5, y: 16.5}
+        - {x: -11.5, y: 9.5}
+        - {x: -22.5, y: -11.5}
+        - {x: -22.5, y: -17.5}
+        - {x: 22.5, y: -17.5}
+        - {x: 22.5, y: 13.5}
+        - {x: 20.5, y: 17.5}
+    - name: mmx3_zero_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 670
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 24}
+        - {x: -18, y: 14}
+        - {x: -18, y: -8}
+        - {x: -13, y: -24}
+        - {x: 0, y: -24}
+        - {x: 11, y: -20}
+        - {x: 18, y: -12}
+        - {x: 18, y: 11}
+        - {x: 12, y: 24}
+    - name: mmx3_zero_102
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 670
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24.5}
+        - {x: -16, y: 21.5}
+        - {x: -16, y: -11.5}
+        - {x: -11, y: -24.5}
+        - {x: 3, y: -24.5}
+        - {x: 16, y: -15.5}
+        - {x: 16, y: 17.5}
+        - {x: 9, y: 24.5}
+    - name: mmx3_zero_103
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 670
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 25.5}
+        - {x: -17, y: 19.5}
+        - {x: -17, y: -20.5}
+        - {x: -15, y: -25.5}
+        - {x: 3, y: -25.5}
+        - {x: 15, y: -18.5}
+        - {x: 17, y: -5.5}
+        - {x: 17, y: 18.5}
+        - {x: 11, y: 25.5}
+    - name: mmx3_zero_104
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 670
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 25.5}
+        - {x: -22.5, y: -15.5}
+        - {x: -21.5, y: -19.5}
+        - {x: -12.5, y: -25.5}
+        - {x: 15.5, y: -25.5}
+        - {x: 22.5, y: -11.5}
+        - {x: 22.5, y: 25.5}
+    - name: mmx3_zero_105
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 670
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 23.5}
+        - {x: -22, y: 7.5}
+        - {x: -22, y: -20.5}
+        - {x: -17, y: -23.5}
+        - {x: 21, y: -23.5}
+        - {x: 22, y: -16.5}
+        - {x: 22, y: 23.5}
+    - name: mmx3_zero_106
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 670
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 36.5}
+        - {x: -31.5, y: 9.5}
+        - {x: -31.5, y: -16.5}
+        - {x: -23.5, y: -36.5}
+        - {x: -11.5, y: -36.5}
+        - {x: 0.5, y: -28.5}
+        - {x: 31.5, y: 9.5}
+        - {x: 31.5, y: 21.5}
+        - {x: 11.5, y: 36.5}
+    - name: mmx3_zero_107
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 670
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 30.5}
+        - {x: -29, y: 23.5}
+        - {x: -33, y: 16.5}
+        - {x: -31, y: -0.5}
+        - {x: -36, y: -9.5}
+        - {x: -36, y: -30.5}
+        - {x: -19, y: -30.5}
+        - {x: 36, y: -15.5}
+        - {x: 36, y: 13.5}
+        - {x: 35, y: 20.5}
+        - {x: 16, y: 30.5}
+    - name: mmx3_zero_108
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 606
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 27}
+        - {x: -36, y: -27}
+        - {x: -20, y: -27}
+        - {x: 36, y: -11}
+        - {x: 36, y: 17}
+        - {x: 6, y: 27}
+    - name: mmx3_zero_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 606
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -22}
+        - {x: 36, y: -22}
+        - {x: 36, y: 9}
+        - {x: 27, y: 22}
+        - {x: -25, y: 22}
+        - {x: -36, y: 6}
+    - name: mmx3_zero_110
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 606
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 22}
+        - {x: -23, y: 22}
+        - {x: -34, y: 6}
+        - {x: -34, y: -22}
+        - {x: -17, y: -22}
+        - {x: 34, y: -11}
+        - {x: 34, y: 1}
+        - {x: 26, y: 3}
+    - name: mmx3_zero_111
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 606
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 22}
+        - {x: -14.5, y: 22}
+        - {x: -25.5, y: 6}
+        - {x: -25.5, y: -22}
+        - {x: -8.5, y: -22}
+        - {x: 25.5, y: -12}
+        - {x: 25.5, y: 3}
+        - {x: 20.5, y: 12}
+    - name: mmx3_zero_112
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 606
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 22}
+        - {x: -12, y: 17}
+        - {x: -15, y: 3}
+        - {x: -15, y: -19}
+        - {x: -14, y: -22}
+        - {x: -1, y: -22}
+        - {x: 11, y: -18}
+        - {x: 24, y: -12}
+        - {x: 24, y: 22}
+      - - {x: -21, y: -4}
+        - {x: -21, y: -1}
+        - {x: -24, y: 0}
+        - {x: -24, y: -5}
+      - - {x: -19, y: -4}
+        - {x: -16, y: -3}
+        - {x: -16, y: 0}
+        - {x: -19, y: 1}
+        - {x: -21, y: -1}
+    - name: mmx3_zero_113
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 606
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 24}
+        - {x: 0, y: 24}
+        - {x: -12, y: 20}
+        - {x: -20, y: 16}
+        - {x: -23, y: 14}
+        - {x: -23, y: -3}
+        - {x: -16, y: -24}
+        - {x: 1, y: -24}
+        - {x: 23, y: -3}
+        - {x: 23, y: 15}
+    - name: mmx3_zero_114
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 542
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 24}
+        - {x: -18, y: 14}
+        - {x: -18, y: -8}
+        - {x: -13, y: -24}
+        - {x: 0, y: -24}
+        - {x: 11, y: -20}
+        - {x: 18, y: -12}
+        - {x: 18, y: 11}
+        - {x: 12, y: 24}
+    - name: mmx3_zero_115
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 542
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24.5}
+        - {x: -16, y: 21.5}
+        - {x: -16, y: -11.5}
+        - {x: -11, y: -24.5}
+        - {x: 3, y: -24.5}
+        - {x: 16, y: -15.5}
+        - {x: 16, y: 17.5}
+        - {x: 9, y: 24.5}
+    - name: mmx3_zero_116
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 542
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 25.5}
+        - {x: -17, y: 19.5}
+        - {x: -17, y: -20.5}
+        - {x: -15, y: -25.5}
+        - {x: 3, y: -25.5}
+        - {x: 15, y: -18.5}
+        - {x: 17, y: -5.5}
+        - {x: 17, y: 18.5}
+        - {x: 11, y: 25.5}
+    - name: mmx3_zero_117
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 542
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 23.5}
+        - {x: -18, y: 17.5}
+        - {x: -18, y: -11.5}
+        - {x: -10, y: -23.5}
+        - {x: 11, y: -23.5}
+        - {x: 18, y: -7.5}
+        - {x: 18, y: 20.5}
+        - {x: 17, y: 23.5}
+    - name: mmx3_zero_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 542
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 24}
+        - {x: 0, y: 24}
+        - {x: -12, y: 20}
+        - {x: -20, y: 16}
+        - {x: -23, y: 14}
+        - {x: -23, y: -3}
+        - {x: -16, y: -24}
+        - {x: 1, y: -24}
+        - {x: 23, y: -3}
+        - {x: 23, y: 15}
+    - name: mmx3_zero_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 542
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 27}
+        - {x: -18.5, y: 5}
+        - {x: -18.5, y: -27}
+        - {x: 2.5, y: -27}
+        - {x: 17.5, y: -24}
+        - {x: 18.5, y: -21}
+        - {x: 18.5, y: 22}
+        - {x: 13.5, y: 27}
+    - name: mmx3_zero_120
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 542
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 22}
+        - {x: -18.5, y: 6}
+        - {x: -18.5, y: -22}
+        - {x: -4.5, y: -22}
+        - {x: 18.5, y: -13}
+        - {x: 18.5, y: 19}
+        - {x: 17.5, y: 22}
+    - name: mmx3_zero_121
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 485
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_122
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 469
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_123
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 492
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 20}
+        - {x: -27, y: 20}
+        - {x: -27, y: 16}
+        - {x: 5, y: -20}
+        - {x: 14, y: -20}
+        - {x: 27, y: -11}
+        - {x: 27, y: 3}
+        - {x: 20, y: 16}
+    - name: mmx3_zero_124
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 468
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 24}
+        - {x: -18.5, y: -24}
+        - {x: 17.5, y: -24}
+        - {x: 18.5, y: -22}
+        - {x: 18.5, y: 10}
+        - {x: 0.5, y: 24}
+    - name: mmx3_zero_125
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 467
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_126
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 467
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_127
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 468
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_128
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 406
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 24.5}
+        - {x: -19.5, y: 22.5}
+        - {x: -19.5, y: -13.5}
+        - {x: -10.5, y: -24.5}
+        - {x: 13.5, y: -24.5}
+        - {x: 19.5, y: 3.5}
+        - {x: 19.5, y: 20.5}
+        - {x: 15.5, y: 24.5}
+    - name: mmx3_zero_129
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 406
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 24.5}
+        - {x: -18.5, y: -14.5}
+        - {x: -5.5, y: -24.5}
+        - {x: 7.5, y: -24.5}
+        - {x: 18.5, y: -9.5}
+        - {x: 18.5, y: 21.5}
+        - {x: 16.5, y: 24.5}
+    - name: mmx3_zero_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 406
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 24.5}
+        - {x: -17.5, y: 7.5}
+        - {x: -17.5, y: -11.5}
+        - {x: -3.5, y: -24.5}
+        - {x: 14.5, y: -24.5}
+        - {x: 17.5, y: -21.5}
+        - {x: 17.5, y: 24.5}
+    - name: mmx3_zero_131
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 406
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 25.5}
+        - {x: -20, y: 23.5}
+        - {x: -20, y: 0.5}
+        - {x: 2, y: -25.5}
+        - {x: 19, y: -25.5}
+        - {x: 20, y: -22.5}
+        - {x: 20, y: 25.5}
+    - name: mmx3_zero_132
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 406
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 25.5}
+        - {x: -18.5, y: 23.5}
+        - {x: -18.5, y: -1.5}
+        - {x: -4.5, y: -23.5}
+        - {x: 1.5, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 18.5, y: 17.5}
+        - {x: 14.5, y: 25.5}
+    - name: mmx3_zero_133
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 345
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24.5}
+        - {x: -22, y: -20.5}
+        - {x: -10, y: -24.5}
+        - {x: 22, y: -24.5}
+        - {x: 22, y: 20.5}
+        - {x: 20, y: 24.5}
+    - name: mmx3_zero_134
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 345
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 24.5}
+        - {x: -17.5, y: 24.5}
+        - {x: -20.5, y: 19.5}
+        - {x: -20.5, y: -9.5}
+        - {x: -19.5, y: -9.5}
+        - {x: -3.5, y: -24.5}
+        - {x: 9.5, y: -24.5}
+        - {x: 20.5, y: -5.5}
+        - {x: 20.5, y: 14.5}
+        - {x: 13.5, y: 16.5}
+    - name: mmx3_zero_135
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 345
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 24.5}
+        - {x: -13.5, y: 15.5}
+        - {x: -18.5, y: 8.5}
+        - {x: -19.5, y: 7.5}
+        - {x: -19.5, y: -6.5}
+        - {x: 3.5, y: -24.5}
+        - {x: 17.5, y: -24.5}
+        - {x: 19.5, y: -21.5}
+        - {x: 19.5, y: 24.5}
+    - name: mmx3_zero_136
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 345
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 24}
+        - {x: -22.5, y: -15}
+        - {x: -20.5, y: -24}
+        - {x: 19.5, y: -24}
+        - {x: 22.5, y: -17}
+        - {x: 22.5, y: 16}
+        - {x: 16.5, y: 24}
+    - name: mmx3_zero_137
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 345
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 25.5}
+        - {x: -20, y: -8.5}
+        - {x: -15, y: -25.5}
+        - {x: 20, y: -25.5}
+        - {x: 20, y: 18.5}
+        - {x: 9, y: 25.5}
+    - name: mmx3_zero_138
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 282
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 23.5}
+        - {x: -18, y: 22.5}
+        - {x: -18, y: -5.5}
+        - {x: -10, y: -20.5}
+        - {x: -6, y: -23.5}
+        - {x: 18, y: -23.5}
+        - {x: 18, y: 18.5}
+        - {x: 14, y: 23.5}
+    - name: mmx3_zero_139
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 278
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_140
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 283
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_141
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 283
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_142
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 278
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_143
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 285
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_144
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 287
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 21.5}
+        - {x: -17, y: 12.5}
+        - {x: -17, y: -11.5}
+        - {x: -15, y: -18.5}
+        - {x: -5, y: -21.5}
+        - {x: 12, y: -21.5}
+        - {x: 17, y: -14.5}
+        - {x: 17, y: 21.5}
+    - name: mmx3_zero_145
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 278
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 28.5}
+        - {x: -17.5, y: -24.5}
+        - {x: -15.5, y: -28.5}
+        - {x: 6.5, y: -28.5}
+        - {x: 17.5, y: -22.5}
+        - {x: 17.5, y: 13.5}
+        - {x: 2.5, y: 28.5}
+    - name: mmx3_zero_146
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 217
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 22.5}
+        - {x: -19.5, y: 15.5}
+        - {x: -19.5, y: -18.5}
+        - {x: -15.5, y: -22.5}
+        - {x: 15.5, y: -22.5}
+        - {x: 19.5, y: -13.5}
+        - {x: 19.5, y: 11.5}
+        - {x: 18.5, y: 22.5}
+    - name: mmx3_zero_147
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 217
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 23}
+        - {x: -18.5, y: 17}
+        - {x: -18.5, y: -10}
+        - {x: -4.5, y: -23}
+        - {x: 8.5, y: -23}
+        - {x: 18.5, y: -5}
+        - {x: 18.5, y: 18}
+        - {x: 13.5, y: 23}
+    - name: mmx3_zero_148
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 212
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 28}
+        - {x: -23.5, y: 25}
+        - {x: -23.5, y: -16}
+        - {x: -20.5, y: -28}
+        - {x: 21.5, y: -28}
+        - {x: 23.5, y: -15}
+        - {x: 23.5, y: 28}
+    - name: mmx3_zero_149
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 217
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 22.5}
+        - {x: -19, y: 15.5}
+        - {x: -19, y: -22.5}
+        - {x: 19, y: -22.5}
+        - {x: 19, y: -7.5}
+        - {x: 9, y: 22.5}
+    - name: mmx3_zero_150
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 217
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 22}
+        - {x: -14, y: 22}
+        - {x: -19, y: 8}
+        - {x: -19, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: -5}
+    - name: mmx3_zero_151
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 217
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21.5}
+        - {x: -19, y: 16.5}
+        - {x: -19, y: -21.5}
+        - {x: 19, y: -21.5}
+        - {x: 19, y: 10.5}
+        - {x: 9, y: 21.5}
+    - name: mmx3_zero_152
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 217
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_153
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 217
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_154
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 217
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_155
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 217
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_156
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 158
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 22}
+        - {x: -14, y: 22}
+        - {x: -19, y: 8}
+        - {x: -19, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: -5}
+    - name: mmx3_zero_157
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 158
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 22}
+        - {x: -14, y: 22}
+        - {x: -19, y: 8}
+        - {x: -19, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: -5}
+    - name: mmx3_zero_158
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 158
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 22}
+        - {x: -14, y: 22}
+        - {x: -19, y: 8}
+        - {x: -19, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: -5}
+    - name: mmx3_zero_159
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 158
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 22}
+        - {x: -14, y: 22}
+        - {x: -19, y: 8}
+        - {x: -19, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: -5}
+    - name: mmx3_zero_160
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 142
+        width: 81
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_161
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 135
+        width: 81
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_162
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 128
+        width: 81
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_163
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 106
+        width: 116
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_164
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 106
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_165
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 82
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_166
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 106
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_167
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 106
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_168
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 106
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_169
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 106
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_170
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 86
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_171
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 83
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_172
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_173
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 52
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_174
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_175
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 51
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_176
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 50
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_177
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 51
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_178
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 48
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_179
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 50
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_180
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_181
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_182
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_183
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 47
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_184
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 12
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_185
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 8
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_186
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 11
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_187
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 8
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_188
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 8
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_189
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 10
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_190
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 6
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_191
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 19
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_192
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_193
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 7
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_194
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 6
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_195
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 5
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -18, y: 12}
+        - {x: -18, y: -15}
+        - {x: -15, y: -16}
+        - {x: 12, y: -16}
+        - {x: 18, y: -11}
+        - {x: 18, y: 13}
+        - {x: 10, y: 16}
+      - - {x: -12, y: -4}
+        - {x: -6, y: 10}
+        - {x: 8, y: 4}
+        - {x: 2, y: -10}
+      - - {x: -6, y: 6}
+        - {x: -8, y: 2}
+        - {x: -8, y: -6}
+        - {x: 1, y: -6}
+        - {x: 4, y: -5}
+        - {x: 4, y: 2}
+        - {x: 0, y: 6}
+    - name: mmx3_zero_196
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 25
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_197
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 15
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_198
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 19
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_199
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 5
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx3_zero_200
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 5
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

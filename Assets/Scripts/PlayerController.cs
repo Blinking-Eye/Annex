@@ -3,10 +3,6 @@ using System.Collections;
 
 public class PlayerController : MonoBehaviour
 {
-    /* Health */
-    [SerializeField] private float StartingHealth = 100.0f;
-    [SerializeField] private LayerMask DefineDamage; // Define what does damage
-
     /* Movement */
     [SerializeField] float MaxSpeed = 15.0f;
 
@@ -31,16 +27,12 @@ public class PlayerController : MonoBehaviour
         // Continuous collision detection for high speed
         _rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
 
-        CurrentHealth = StartingHealth;
         FacingRight = true;
     }
 
     // Called each frame
     void Update()
-    {
-        if (CurrentHealth <= 0.0f)
-            Destroy(gameObject);
-        
+    {   
         // Don't do this in the future, do input manager and make jump axis to allow remapping
         if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.L))
         {
@@ -54,7 +46,6 @@ public class PlayerController : MonoBehaviour
             }
             else if (_canDoubleJump) // Double jump
             {
-                Debug.Log("Double jumped");
                 _rb.velocity = new Vector2(_rb.velocity.x, 0.0f);
                 _rb.AddForce(new Vector2(0, DoubleJump));
 
@@ -93,15 +84,6 @@ public class PlayerController : MonoBehaviour
             Flip();
     }
 
-    void OnCollisionEnter2D(Collision2D collision2D)
-    {
-        if (collision2D.gameObject.tag == "EnemyProjectile")
-        {
-            //CurrentHealth -= collision2D.gameObject.GetComponent<ProjectileController>().Damage;
-            Debug.Log(CurrentHealth);
-        }
-    }
-
     // Flips animations if changing direction.
     // Do NOT use if main camera under player heirarchy
     public void Flip()
@@ -115,10 +97,6 @@ public class PlayerController : MonoBehaviour
     }
 
     /* Getters and Setters */
-
-    // Health
-    // TODO: defense(?)
-    public float CurrentHealth { get; set; }
 
     // Direction of game object
     public bool FacingRight { get; set; }
