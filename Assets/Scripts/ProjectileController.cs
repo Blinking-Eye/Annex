@@ -11,11 +11,14 @@ public class ProjectileController : MonoBehaviour
     [SerializeField] private float MaxDistance;
     private Vector3 _startPos;
 
+    private Rigidbody2D _rbShooter;
+
 	// Use this for initialization
     private void Start()
     {
         Destroy(gameObject, 5.0f); // Destroy after 5 seconds
         _startPos = transform.position;
+        _rbShooter = Player.GetComponent<Rigidbody2D>();
 
         // Say whether enemy shot or friendly shot
         if (Player.CompareTag("Player"))
@@ -30,7 +33,7 @@ public class ProjectileController : MonoBehaviour
     {
 
         // If goes past max distance, destroy
-        if (Mathf.Abs(transform.position.x - _startPos.x) > MaxDistance)
+        if (Mathf.Abs(transform.position.x - _startPos.x) > (MaxDistance+Mathf.Abs(_rbShooter.velocity.x)/MaxDistance))
             Destroy(gameObject);
     }
 

@@ -18,11 +18,13 @@ public class ShootingController : MonoBehaviour
     private Animator _anim;
     private GameObject _projectile;
     private Rigidbody2D _rb;
+    private Rigidbody2D _rbShooter;
 
     // Use this for initialization
     private void Start()
     {
-        _anim = GetComponent<Animator>();
+        _anim = gameObject.GetComponent<Animator>();
+        _rbShooter = gameObject.GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -67,7 +69,8 @@ public class ShootingController : MonoBehaviour
 
                 int rotate = FacingRight ? -90 : 90;
                 _projectile.transform.Rotate(0, 0, rotate);
-                _rb.velocity = FacingRight ? new Vector2(Speed, 0) : new Vector2(-Speed, 0);
+                _rb.velocity = FacingRight ? new Vector2(Speed+_rbShooter.velocity.x, 0) :
+                                             new Vector2(-Speed+_rbShooter.velocity.x, 0);
                 
                 _chargeTimer = 1.0f;
             }
