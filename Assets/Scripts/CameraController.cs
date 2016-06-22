@@ -28,8 +28,7 @@ public class CameraController : MonoBehaviour
         _pos2 = Player2.transform.position;
     }
 	
-	// Update is called once per frame
-	void Update ()
+	void FixedUpdate ()
     {
         // Move camera to focus on average distance between the two players
         _pos1 = Player1.transform.position;

@@ -19,23 +19,25 @@ public class ShootingController : MonoBehaviour
     private GameObject _projectile;
     private Rigidbody2D _rb;
     private Rigidbody2D _rbShooter;
+    private PlayerController _pc;
 
     // Use this for initialization
     private void Start()
     {
         _anim = gameObject.GetComponent<Animator>();
         _rbShooter = gameObject.GetComponent<Rigidbody2D>();
+        _pc = gameObject.GetComponent<PlayerController>();
     }
-
-    // Update is called once per frame
+    
     private void FixedUpdate()
     {
         _anim.SetBool("Charging", _charging);
         _anim.SetBool("Shooting", false);
         _anim.SetBool("Charged", false);
 
-        FacingRight = gameObject.GetComponent<PlayerController>().FacingRight;
-        if (Time.fixedTime > _fireNext)
+        FacingRight = _pc.FacingRight;
+        bool dashing = _pc.Dashing;
+        if (Time.fixedTime > _fireNext && !dashing)
         {
             if (Input.GetKey(KeyCode.Space) || Input.GetKey(KeyCode.K))
             {
