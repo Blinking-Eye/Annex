@@ -5,11 +5,14 @@ public class PlayerController : MonoBehaviour
 {
     /* Movement */
     [SerializeField] float MaxSpeed = 15.0f;
+    [SerializeField] private float WallFallAcceleration = 0.5f;
+    [SerializeField] private float WallPushFromJump = 1000.0f;
 
     /* Falling and Jumping */
     private bool _grounded = false; // Are you on the ground?
     [SerializeField] private float Jump = 800.0f;
     private bool _canDoubleJump = false;
+    private bool _canWallJump = false;
     [SerializeField] private float DoubleJump = 600.0f;
     [SerializeField] private float FallSpeed = 10.0f;
     private const float GroundRadius = 0.2f; // How big will the sphere be that we check for ground?
@@ -44,8 +47,16 @@ public class PlayerController : MonoBehaviour
 
                 _canDoubleJump = true;
             }
-            else if (_canDoubleJump) // Double jump
+            else if (_canWallJump) // Wall jump
             {
+                Debug.Log("wall jumping");
+                float bounce = FacingRight ? -WallPushFromJump : WallPushFromJump;
+                _rb.velocity = new Vector2(_rb.velocity.x, 0.0f);
+                _rb.AddForce(new Vector2(bounce, DoubleJump));
+            }
+            else if (_canDoubleJump && !_canWallJump) // Double jump
+            {
+                Debug.Log("Double jumping");
                 _rb.velocity = new Vector2(_rb.velocity.x, 0.0f);
                 _rb.AddForce(new Vector2(0, DoubleJump));
 
@@ -78,10 +89,35 @@ public class PlayerController : MonoBehaviour
 
         _rb.velocity = new Vector2(move * MaxSpeed, _rb.velocity.y);
 
+        // If moving up, don't allow collisions with platforms, else allow (ie downward)
+        if (_rb.velocity.y > 0.0f || !_grounded)
+            Physics2D.IgnoreLayerCollision(8, 9, true);
+        else
+            Physics2D.IgnoreLayerCollision(8, 9, false);
+
         if (move > 0 && !FacingRight)
             Flip();
         else if (move < 0 && FacingRight)
             Flip();
+    }
+
+    void OnCollisionEnter2D(Collision2D collision2D)
+    {
+        // Wall sliding
+        if (collision2D.gameObject.layer == 12 && !_grounded && (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D)))
+        {
+            _rb.gravityScale = WallFallAcceleration;
+            _canWallJump = true;
+        }
+    }
+
+    void OnCollisionExit2D(Collision2D collision2D)
+    {
+        if (collision2D.gameObject.layer == 12)
+        {
+            _rb.gravityScale = 3; // Default
+            _canWallJump = false;
+        }
     }
 
     // Flips animations if changing direction.
