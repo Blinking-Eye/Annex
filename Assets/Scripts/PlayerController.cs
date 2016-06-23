@@ -5,7 +5,8 @@ public class PlayerController : MonoBehaviour
 {
     /* Movement */
     [SerializeField] private float MaxSpeed = 15.0f;
-    [SerializeField] private float DashVelocity = 100.0f;
+    [SerializeField] private float DashTimer = 5.0f;
+    [SerializeField] private float DashSpeed = 100.0f;
 
     /* Wall Jumps */
     private bool _touchingWall = false;
@@ -111,18 +112,10 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.LeftShift) && _grounded) // Dash
         {
-            Debug.Log("Dashing");
             Dashing = true;
-
-            DashVelocity = Mathf.Abs(DashVelocity);
-            _rb.velocity = Vector2.zero;
-            DashVelocity = FacingRight ? DashVelocity*100 : DashVelocity*-100;
-            _rb.AddForce(new Vector2(DashVelocity*Time.fixedDeltaTime, 0.0f));
         }
-        else if (!_justWallJumped) // After wall jump, don't allow control
+        else if (!_justWallJumped && !Dashing) // After wall jump, don't allow control
         {
-            Dashing = false;
-
             float move = Input.GetAxis("Horizontal");
 
             _anim.SetFloat("Speed", Mathf.Abs(move)); // How fast you are moving left and right
@@ -134,6 +127,8 @@ public class PlayerController : MonoBehaviour
             else if (move < 0 && FacingRight)
                 Flip();
         }
+        if (Dashing)
+            StartCoroutine(Dash());
 
         _anim.SetBool("Dashing", Dashing);
 
@@ -142,6 +137,15 @@ public class PlayerController : MonoBehaviour
             Physics2D.IgnoreLayerCollision(8, 9, true);
         else
             Physics2D.IgnoreLayerCollision(8, 9, false);
+    }
+
+    private IEnumerator Dash()
+    {
+        DashSpeed = Mathf.Abs(DashSpeed);
+        DashSpeed = FacingRight ? DashSpeed : -DashSpeed;
+        _rb.velocity = new Vector2(DashSpeed * Time.fixedDeltaTime, 0.0f);
+        yield return new WaitForSeconds(DashTimer);
+        Dashing = false;
     }
 
     // Flips animations if changing direction.
